@@ -3,6 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devisaac-oliveira1993)
 [![Gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://isaactpoliveira@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5592991155175&text=Hey,%20tudo%20bem%20com%20voc%C3%AA?%20Me%20chamo%20Isaac%20Oliveira%20e%20estou%20aqui%20para%20te%20atender.%20Me%20conte,%20como%20posso%20te%20ajudar?)
 
 ![IOliveira1993 GitHub stats](https://github-readme-stats.vercel.app/api?username=IOliveira1993&show_icons=true&theme=radical)
 
