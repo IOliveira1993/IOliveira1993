@@ -16,6 +16,3 @@
 
 
 #### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programção.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOliveira1993)](https://github.com/anuraghazra/github-readme-stats)
